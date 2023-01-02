@@ -61,6 +61,4 @@ function validateForm(){
     return returnval;
     document.write("Your info:- " + "<br>" + "Your name: " + name + "<br>" + "Your email: " + email + "<br>" + "Your contact: " + phone);
     return returnval;
-    
-
 }
